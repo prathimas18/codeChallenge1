@@ -1,0 +1,20 @@
+{
+  "name": "code-challenge1",
+  "version": "1.0.0",
+  "description": "Get odd numbers only from an array of numbers",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathimas18/codeChallenge1.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/prathimas18/codeChallenge1/issues"
+  },
+  "homepage": "https://github.com/prathimas18/codeChallenge1#readme"
+}
